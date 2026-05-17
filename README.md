@@ -2,6 +2,8 @@
 
 **Hardware Design:** [Project on OSHWHub](https://oshwhub.com/motozilog/project_dcqhpcgu/)
 
+Based on ROCKNIX commit 820372d8efdca404624f532125c638a69901ac6f (Date: Sun Feb 15 21:37:07 2026 +0100)
+
 ## Features
 
 - Modified U-Boot bootloader

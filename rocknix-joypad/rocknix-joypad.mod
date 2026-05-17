@@ -1,0 +1,1 @@
+./rocknix-joypad.o

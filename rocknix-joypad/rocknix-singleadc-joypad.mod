@@ -1,0 +1,1 @@
+./rocknix-singleadc-joypad.o

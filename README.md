@@ -1,3 +1,18 @@
+# Unofficial ROCKNIX for lckfb tspi1f
+
+**Hardware Design:** [Project on OSHWHub](https://oshwhub.com/motozilog/project_dcqhpcgu/)
+
+## Features
+
+- Modified U-Boot bootloader
+- Added TSPI LED timer support
+- Added AP6212 WiFi & Bluetooth support (using Broadcom's `BRCMFMAC` driver)
+- Integrated LCKFB logo into the boot splash screen
+- Added RK809 audio codec output
+- Configured RK3566 GPIO for 2P joystick and volume control
+
+
+
 <img src="https://github.com/ROCKNIX/distribution/blob/next/distributions/ROCKNIX/logos/rocknix-logo.png?raw=yes" width=192>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Latest Version](https://img.shields.io/github/release/ROCKNIX/distribution.svg?color=FF5555&label=latest%20version&style=flat-square)](https://github.com/ROCKNIX/distribution/releases/latest) [![Activity](https://img.shields.io/github/commit-activity/m/ROCKNIX/distribution?color=FF5555&style=flat-square)](https://github.com/ROCKNIX/distribution/commits) [![Pull Requests](https://img.shields.io/github/issues-pr-closed/ROCKNIX/distribution?color=FF5555&style=flat-square)](https://github.com/ROCKNIX/distribution/pulls) [![Discord Server](https://img.shields.io/discord/948029830325235753?color=FF5555&label=chat&style=flat-square)](https://discord.gg/seTxckZjJy)
 
 ---
